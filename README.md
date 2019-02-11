@@ -1,6 +1,6 @@
 # crystal-poker
 
-TODO: Write a description here
+Based on https://github.com/gmacdougall/ruby-poker
 
 ## Installation
 
