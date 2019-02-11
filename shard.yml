@@ -1,0 +1,13 @@
+name: crystal-poker
+version: 0.1.0
+
+authors:
+  - Jon Mason <jonathan.e.mason@gmail.com>
+
+targets:
+  crystal-poker:
+    main: src/crystal-poker.cr
+
+crystal: 0.27.1
+
+license: MIT
